@@ -8,3 +8,5 @@ Added
 * Odyssey Armor sets
 * Odyssey Weapons (not added Offhand yet)
 * Added resource for unknown items, Check res folder
+
+This is currently a work in progress so please be patient while i bring this up to date with the current game
