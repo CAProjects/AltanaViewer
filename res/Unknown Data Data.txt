@@ -125,3 +125,44 @@
 364/121,Gold Bomb Head
 364/97,Mandgora Cactus?
 364/99,Mandgora Cactus??
+
+369/5,Item-Rom-5
+369/6,Item-Rom-6
+369/7,Item-Rom-7
+369/8,Item-Rom-8
+
+369/23,Item-Rom-23
+369/24,Item-Rom-24
+369/25,Item-Rom-25
+369/26,Item-Rom-26
+369/27,Item-Rom-27
+369/28,Item-Rom-28
+369/29,Item-Rom-29
+369/30,Item-Rom-30
+369/31,Item-Rom-31
+369/32,Item-Rom-32
+369/33,Item-Rom-33
+369/34,Item-Rom-34
+369/35,Item-Rom-35
+369/36,Item-Rom-36
+369/37,Item-Rom-37
+369/38,Item-Rom-38
+369/39,Item-Rom-39
+369/40,Item-Rom-40
+369/41,Item-Rom-41
+369/42,Item-Rom-42
+369/43,Item-Rom-43
+369/44,Item-Rom-44
+369/59,Item-Rom-59 NPC ??
+369/60,Item-Rom-60 NPC ??
+369/61,Item-Rom-61
+369/62,Item-Rom-62
+369/63,Item-Rom-63
+369/64,Item-Rom-64
+369/65,Item-Rom-65
+369/66,Item-Rom-66
+369/67,Item-Rom-67
+369/68,Item-Rom-68
+369/69,Item-Rom-69
+369/70,Item-Rom-70
+369/71,Item-Rom-71

@@ -65,6 +65,7 @@
 361/42,Cassie's Shield
 362/5,Sacro Bulwark
 368/53,Troth
+369/1,Twinned Shield
 
 @Hand
 45/97,Avengers
@@ -125,7 +126,7 @@
 356/15,Sharanga (su5)
 359/22,Kaja Knuckles
 360/29,Karambit
-365/56,Unknown H2H
+365/56,Dragon Fangs
 365/91,Sakpata's Fists
 
 
@@ -202,8 +203,9 @@
 362/83,Wind Knife
 363/12,Norgish Dagger
 363/13,Esikuva
-365/18,Unknown Dagger
+365/18,Infiltrator
 368/58,Gleti's Knife
+370/24,Aern Dagger II
 
 @Sword
 113/55,Colichemarde
@@ -314,6 +316,8 @@
 360/127,Naegling
 364/61,Nihility
 368/59,Sakpata's Sword
+369/19,Twinned Blade
+370/23,Aern Sword II
 
 @Axe
 112/126,Bronze Axe
@@ -363,6 +367,7 @@
 361/43,Ark Tabar
 368/56,Ikenga's Axe
 368/60,Agwu's Axe
+370/25,Aern Axe II
 
 @Katana
 114/12,Fudo
@@ -396,7 +401,7 @@
 357/0,Fudo Masamune (su5)
 359/122,Kaja Katana
 361/1,Gokotai
-368/54,Unknown Katana
+368/54,Yagyu Darkblade
 368/57,Kunimitsu
 
 @Club
@@ -505,5 +510,5 @@ Chocobo Wand
 361/111,Cath Palug Hammer
 362/84,Daybreak
 363/46,Burrower's Wand
-368/55,Unknown Club
+368/55,Wizard's Rod
 368/61,Bunzi's Rod
