@@ -60,6 +60,8 @@
 356/6,Sagitta (su5)
 359/13,Kaja Knuckles
 360/22,Karambit
+365/51,Unknown H2H
+365/80,Sakpata's Fists
 
 @Dagger
 54/4,Valiant Knife
@@ -134,6 +136,8 @@
 362/68,Wind Knife
 362/125,Norgish Dagger
 362/126,Esikuva
+365/11,Unknown Dagger
+367/100,Gleti's Knife
 
 @Sword
 54/28,Colichemarde
@@ -242,6 +246,8 @@
 358/56,Aern Sword
 359/83,Kaja Sword
 360/90,Naegling
+364/54,Nihility
+367/102,Sakpata's Sword
 
 @G.Sword
 53/39,Reserve Captain's Greatsword
@@ -260,7 +266,6 @@
 121/103,Ragnarok
 275/70,Ragnarok (99)
 121/105,Balmung
-
 145/31,Falx
 149/62,Darksteel Falx
 149/63,Scheherazade
@@ -297,6 +302,7 @@
 360/91,Nandaka
 361/82,Zantetsuken X
 362/127,Ophidian Sword
+367/104,Agwu's Claymore
 
 @Axe
 53/51,Bronze Axe
@@ -344,6 +350,8 @@
 359/85,Kaja Axe
 360/92,Dolichenus
 361/28,Ark Tabar
+367/105,Agwu's Axe
+367/97,Ikenga's Axe
 
 @G.Axe
 53/67,Centurion's Axe
@@ -383,6 +391,9 @@
 359/86,Kaja Chopper
 360/93,Lycurgos
 363/0,Ophidian Axe
+367/96,Helgoland
+365/9,Unknown Great Axe
+367/108,Bunzi's Chopper
 
 @Scythe
 54/41,Darksteel Scythe
@@ -424,6 +435,7 @@
 357/112,Lost Sickle
 359/88,Kaja Scythe
 360/95,Drepanum
+367/106,Agwu's Scythe
 
 @Polearm
 54/49,Halberd
@@ -477,6 +489,7 @@
 360/94,Shining One
 361/29,Hotengeki
 361/81,Sha Wujing's Lance
+367/98,Ikenga's Lance
 
 @Katana
 99/78,Fudo
@@ -510,6 +523,8 @@
 356/92,Fudo Masamune (su5)
 359/89,Kaja Katana
 360/96,Gokotai
+367/94,Unknown Katana
+367/99,Kunimitsu
 
 @G.Katana
 53/119,Nukemaru
@@ -553,6 +568,8 @@
 359/90,Kaja Tachi
 360/97,Hachimonji
 363/78,Mutsunokami
+363/78,Unknown G.Katana
+367/101,Gekkei
 
 @Club
 53/38,Chocobo Wand
@@ -660,6 +677,8 @@
 361/105,Cath Palug Hammer
 362/69,Daybreak
 363/41,Burrower's Wand
+367/95,Unknown Club
+367/107,Bunzi's Rod
 
 @Staff
 55/8,Elm Staff
@@ -730,3 +749,6 @@
 359/92,Kaja Staff
 360/99,Xoanon
 361/127,Ranine Staff
+365/10,Unknown Staff
+364/53,Mamool Ja Staff ???
+367/103,Mpaca's Staff
