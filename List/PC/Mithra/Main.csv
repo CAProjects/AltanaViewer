@@ -62,6 +62,7 @@
 360/22,Karambit
 365/51,Dragon Fangs
 365/80,Sakpata's Fists
+371/22,Tokkosho
 
 @Dagger
 54/4,Valiant Knife
@@ -307,6 +308,7 @@
 361/82,Zantetsuken X
 362/127,Ophidian Sword
 367/104,Agwu's Claymore
+371/36,Goujian
 
 @Axe
 53/51,Bronze Axe
@@ -685,8 +687,8 @@
 363/41,Burrower's Wand
 367/95,Wizard's Rod
 367/107,Bunzi's Rod
-370/98,Thunder Hammer
-371/3,Apkallu Scepter
+370/105,Thunder Hammer
+371/10,Apkallu Scepter
 
 @Staff
 55/8,Elm Staff
