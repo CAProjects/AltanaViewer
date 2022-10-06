@@ -14,8 +14,9 @@ Added Items introduced in the following@
 * [April 2021 Version Update](https://www.bg-wiki.com/ffxi/April_2021_Version_Update_Changes)
 * [May 2021 Version Update](https://www.bg-wiki.com/ffxi/May_2021_Version_Update_Changes)
 * [June 2021 Version Update](https://www.bg-wiki.com/ffxi/June_2021_Version_Update_Changes)
+* [August 2021 Version Update](https://www.bg-wiki.com/ffxi/August_2021_Version_Update_Changes)
 
 TODO 
-Add items introduced from August 2021 Version Update onwards 
+Add items introduced from September 2021 Version Update onwards 
 
 This is currently a work in progress so please be patient while i bring this up to date with the current game

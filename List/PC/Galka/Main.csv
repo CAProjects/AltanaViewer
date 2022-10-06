@@ -251,6 +251,7 @@
 368/19,Sakpata's Sword
 369/15,Twinned Blade
 370/9,Aern Sword II
+370/80,Extinction
 
 @G.Sword
 58/9,Reserve Captain's Greatsword
@@ -672,6 +673,7 @@
 336/123,Rubicundity
 336/125,Heartstopper
 344/120,Tishtrya
+  
 352/76,Seika Uchiwa
 353/10,Jingly Rod
 356/107,Asclepius (su5)
@@ -684,6 +686,7 @@
 363/42,Burrower's Wand
 368/12,Wizard's Rod
 368/24,Bunzi's Rod
+370/99,Thunder Hammer
 
 @Staff
 59/106,Elm Staff
@@ -759,3 +762,4 @@
 368/20,Mpaca's Staff
 369/57,Sophistry
 370/13,Aern Staff II
+370/79,Levin
