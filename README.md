@@ -22,8 +22,10 @@ Added Items introduced in the following@
 * [February 2022 Version Update](https://www.bg-wiki.com/ffxi/February_2022_Version_Update_Changes)
 * [April 2022 Version Update](https://www.bg-wiki.com/ffxi/April_2022_Version_Update_Changes)
 * [May 2022 Version Update](https://www.bg-wiki.com/ffxi/May_2022_Version_Update_Changes)
+* [June 2022 Version Update](https://www.bg-wiki.com/ffxi/June_2022_Version_Update_Changes)
+* [August 2022 Version Update](https://www.bg-wiki.com/ffxi/August_2022_Version_Update_Changes)
 
 TODO 
-Add items introduced from September 2021 Version Update onwards 
+Add items introduced from September 2022 Version Update onwards 
 
-This is currently a work in progress so please be patient while i bring this up to date with the current game
+This is currently a work in progress so please be patient while i bring this up to date with the current games

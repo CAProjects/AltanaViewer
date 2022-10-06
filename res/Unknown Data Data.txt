@@ -260,3 +260,16 @@
 372/35,Item-Rom-35
 372/36,Item-Rom-36
 372/88,Item-Rom-88
+
+372/96,Item-Rom-96
+372/97,Item-Rom-97
+372/98,Item-Rom-98
+372/99,Item-Rom-99
+
+373/22,Item-Rom-22
+
+373/23,Item-Rom-23
+373/24,Item-Rom-24
+373/25,Item-Rom-25
+373/26,Item-Rom-26
+
