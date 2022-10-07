@@ -1,0 +1,61 @@
+363/20,RomData363-20 - Animation
+363/23,RomData363-23 - Animation (Siren Summon?)
+363/24,RomData363-24 - Animation (Siren Dismis?)
+363/25,RomData363-25 - Animation Honor March?
+363/26,RomData363-26 - Animation
+363/27,RomData363-27 - Animation Enaero II
+363/28,RomData363-28 - Animation
+363/29,RomData363-29 - Animation
+363/30,RomData363-30 - Animation
+363/31,RomData363-31 - Animation Elegy?
+363/32,RomData363-32 - Animation
+363/33,RomData363-33 - Animation Tornado ??
+363/34,RomData363-34 - Animation
+363/35,RomData363-35 - Animation
+363/50,RomData363-50 - Animation
+363/80,RomData363-80 - Animation
+363/81,RomData363-81 - Animation
+363/82,RomData363-82 - Animation
+363/83,RomData363-83 - Animation
+363/84,RomData363-84 - Animation
+363/85,RomData363-85 - Animation
+363/86,RomData363-86 - Animation
+363/87,RomData363-87 - Animation
+363/88,RomData363-88 - Animation
+363/89,RomData363-89 - Animation
+363/90,RomData363-90 - Animation
+363/91,RomData363-91 - Animation
+363/92,RomData363-92 - Animation
+363/93,RomData363-93 - Animation
+363/94,RomData363-94 - Animation
+363/95,RomData363-95 - Animation
+363/96,RomData363-96 - Animation
+364/68,RomData364-68 - Animation
+365/22,RomData365-22 - Animation
+369/5,RomData369-5 - Animation
+369/33,RomData369-33 - Animation
+369/34,RomData369-34 - Animation monster SP animation
+369/35,RomData369-35 - Animation monster SP animation
+369/36,RomData369-36 - Animation monster SP animation
+369/37,RomData369-37 - Animation monster SP animation
+369/38,RomData369-38 - Animation monster SP animation
+369/39,RomData369-39 - Animation monster SP animation
+369/40,RomData369-40 - Animation monster SP animation
+369/41,RomData369-41 - Animation monster SP animation
+369/65,RomData369-65 - Animation
+369/66,RomData369-66 - Animation (Lilith fetters?)
+370/40,RomData370-40 - Animation
+370/63,RomData370-63 - Animation
+370/64,RomData370-64 - Animation
+370/65,RomData370-65 - Animation HTMB Fenrir Comet ??
+371/13,RomData371-13 - Animation
+371/15,RomData371-15 - Level Up Animation
+372/7,RomData372-7 - Animation
+372/8,RomData372-8 - Animation
+372/9,RomData372-9 - Animation
+372/10,RomData372-10 - Animation
+372/11,RomData372-11 - Master Level Down Animation
+372/35,RomData372-35 - Anniversary Firework
+372/36,RomData372-36 - Anniversary Firework
+373/57,RomData373-57 - Animation
+373/58,RomData373-58 - Animation
