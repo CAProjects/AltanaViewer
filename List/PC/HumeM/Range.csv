@@ -60,6 +60,7 @@
 359/0,Unused Ambu Bow
 360/13,Unused Ambu Bow
 365/63,Mpaca's Bow
+374/15,Prime Bow
 
 @Gun
 31/111,Heavy Crossbow
@@ -98,6 +99,7 @@
 358/18,Troll Gun
 365/62,Gleti's Crossbow
 365/61,Silver Gun
+374/16,Prime Gun
 
 @Wind
 31/123,Traversiere
@@ -115,6 +117,7 @@
 318/126, Linos
 342/99, Marsyas
 361/62,Marvelous Cheer
+374/17,Prime Horn
 
 @String
 32/3,Ebony Harp

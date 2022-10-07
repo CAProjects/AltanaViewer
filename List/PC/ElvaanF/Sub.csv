@@ -67,6 +67,7 @@
 368/53,Troth
 369/1,Twinned Shield
 372/23,Ark Shield
+374/90,Prime Shield
 
 @Hand
 45/97,Avengers
@@ -130,7 +131,7 @@
 365/56,Dragon Fangs
 365/91,Sakpata's Fists
 371/26,Tokkosho
-
+374/47,Prime Fists
 
 @Dagger
 113/31,Valiant Knife
@@ -208,6 +209,7 @@
 365/18,Infiltrator
 368/58,Gleti's Knife
 370/24,Aern Dagger II
+374/117,Prime Dagger
 
 @Sword
 113/55,Colichemarde
@@ -321,6 +323,7 @@
 369/19,Twinned Blade
 370/23,Aern Sword II
 370/84,Extinction
+374/118,Prime Sword
 
 @Axe
 112/126,Bronze Axe
@@ -371,6 +374,7 @@
 368/56,Ikenga's Axe
 368/60,Agwu's Axe
 370/25,Aern Axe II
+374/119,Prime Axe
 
 @Katana
 114/12,Fudo
@@ -406,6 +410,7 @@
 361/1,Gokotai
 368/54,Yagyu Darkblade
 368/57,Kunimitsu
+374/120,Genshitanto
 
 @Club
 Chocobo Wand
@@ -528,3 +533,4 @@ Chocobo Wand
 373/2,Summer Uchiwa372/120,Lycopodium Mallet
 372/121,Chac-chacs
 373/10,Summer Uchiwa
+374/121,Prime Club

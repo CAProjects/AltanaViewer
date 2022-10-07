@@ -273,3 +273,114 @@
 373/25,Item-Rom-25
 373/26,Item-Rom-26
 
+373/34,Item-Rom-34
+373/35,Item-Rom-35
+373/36,Item-Rom-36
+373/37,Item-Rom-37
+373/38,Item-Rom-38
+373/39,Item-Rom-39
+373/40,Item-Rom-40
+373/41,Item-Rom-41
+373/42,Item-Rom-42
+373/43,Item-Rom-43
+373/44,Item-Rom-44
+373/45,Item-Rom-45
+
+373/55,Item-Rom-55 NPC ???
+373/56,Item-Rom-56
+373/57,Item-Rom-57
+373/58,Item-Rom-58
+373/59,Item-Rom-59
+373/60,Item-Rom-60
+373/61,Item-Rom-61
+373/62,Item-Rom-62
+373/63,Item-Rom-63
+373/64,Item-Rom-64
+373/65,Item-Rom-65
+373/66,Item-Rom-66
+373/67,Item-Rom-67
+373/68,Item-Rom-68
+373/69,Item-Rom-69
+373/70,Item-Rom-70
+373/71,Item-Rom-71
+373/72,Item-Rom-72
+373/73,Item-Rom-73
+373/74,Item-Rom-74
+373/75,Item-Rom-75
+373/76,Item-Rom-76
+373/77,Item-Rom-77
+373/78,Item-Rom-78
+373/79,Item-Rom-79
+373/80,Item-Rom-80
+373/81,Item-Rom-81
+373/82,Item-Rom-82
+373/83,Item-Rom-83
+373/84,Item-Rom-84
+373/85,Item-Rom-85
+373/86,Item-Rom-86
+373/87,Item-Rom-87
+373/88,Item-Rom-88
+373/89,Item-Rom-89
+373/90,Item-Rom-90
+373/91,Item-Rom-91
+373/92,Item-Rom-92
+373/93,Item-Rom-93
+373/94,Item-Rom-94
+373/95,Item-Rom-95
+373/96,Item-Rom-96
+373/97,Item-Rom-97
+373/98,Item-Rom-98
+373/99,Item-Rom-99
+373/100,Item-Rom-100
+373/101,Item-Rom-101
+373/102,Item-Rom-102
+373/103,Item-Rom-103
+373/104,Item-Rom-104
+373/105,Item-Rom-105
+373/106,Item-Rom-106
+373/107,Item-Rom-107
+373/108,Item-Rom-108
+373/109,Item-Rom-109
+373/110,Item-Rom-110
+373/111,Item-Rom-111
+373/112,Item-Rom-112
+373/113,Item-Rom-113
+373/114,Item-Rom-114
+373/115,Item-Rom-115
+373/116,Item-Rom-116
+373/117,Item-Rom-117
+373/118,Item-Rom-118
+373/119,Item-Rom-119
+373/120,Item-Rom-120
+373/121,Item-Rom-121
+373/122,Item-Rom-122
+373/123,Item-Rom-123
+373/124,Item-Rom-124
+373/125,Item-Rom-125
+373/126,Item-Rom-126
+373/127,Item-Rom-127
+374/0,Item-Rom-0
+374/1,Item-Rom-1
+374/2,Item-Rom-2
+374/3,Item-Rom-3
+374/4,Item-Rom-4
+374/5,Item-Rom-5
+374/6,Item-Rom-6
+374/7,Item-Rom-7
+374/8,Item-Rom-8
+374/9,Item-Rom-9
+374/10,Item-Rom-10
+374/11,Item-Rom-11
+374/12,Item-Rom-12
+374/13,Item-Rom-13
+374/34,Prime Mythra Head
+374/43,Item-Rom-43 ???
+374/51,Item-Rom-51 ???
+374/94,Item-Rom-94 ???
+374/95,Item-Rom-95 ???
+374/96,Item-Rom-96 ???
+374/97,Item-Rom-97 ???
+374/98,Item-Rom-98 ???
+374/99,Item-Rom-99 ???
+374/100,Item-Rom-100 ???
+374/101,Item-Rom-101 ???

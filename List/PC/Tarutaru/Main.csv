@@ -63,6 +63,7 @@
 365/50,Dragon Fangs
 365/76,Sakpata's Fists
 371/21,Tokkosho
+374/30,Prime Fists
 
 @Dagger
 49/8,Valiant Knife
@@ -140,6 +141,7 @@
 365/8,Infiltrator
 367/55,Gleti's Knife
 369/118,Aern Dagger II
+375/53,Prime Dagger
 
 @Sword
 49/32,Colichemarde
@@ -253,6 +255,7 @@
 369/13,Twinned Blade
 369/117,Aern Sword II
 370/76,Extinction
+375/54,Prime Sword
 
 @G.Sword
 48/43,Reserve Captain's Greatsword
@@ -309,6 +312,7 @@
 362/122,Ophidian Sword
 367/59,Agwu's Claymore
 371/35,Goujian
+375/55,Prime Blade
 
 @Axe
 48/55,Bronze Axe
@@ -359,6 +363,7 @@
 367/60,Agwu's Axe
 367/52,Ikenga's Axe
 369/119,Aern Axe II
+375/56,Prime Axe
 
 @G.Axe
 48/71,Centurion's Axe
@@ -401,6 +406,7 @@
 367/51,Helgoland
 365/6,Drastic Axe
 367/63,Bunzi's Chopper
+375/57,Prime Great Axe
 
 @Scythe
 49/45,Darksteel Scythe
@@ -443,6 +449,7 @@
 359/77,Kaja Scythe
 360/84,Drepanum
 367/61,Agwu's Scythe
+375/59,Prime Scythe
 
 @Polearm
 49/53,Halberd
@@ -499,6 +506,7 @@
 367/53,Ikenga's Lance
 369/54,Iapetus
 369/120,Aern Spear II
+375/58,Prime Lance
 
 @Katana
 99/46,Fudo
@@ -534,6 +542,7 @@
 360/85,Gokotai
 367/49,Yagyu Darkblade
 367/54,Kunimitsu
+375/60,Genshitanto
 
 @G.Katana
 48/123,Nukemaru
@@ -578,6 +587,7 @@
 360/86,Hachimonji
 363/77,Mutsunokami
 367/56,Gekkei
+375/61,Genshito
 
 @Club
 48/42,Chocobo Wand
@@ -698,6 +708,7 @@
 372/122,Lycopodium Mallet
 372/123,Chac-chacs
 373/11,Summer Uchiwa
+375/62,Prime Maul
 
 @Staff
 50/12,Elm Staff
@@ -775,3 +786,5 @@
 369/121,Aern staff II
 370/75,Levin
 371/111,Profane Staff
+373/52,Unknown Staff (Sept 22)
+375/63,Prime Staff
