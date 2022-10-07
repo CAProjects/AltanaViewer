@@ -1,6 +1,6 @@
 # AltanaViewer
 
-## STATUS UP TO DATE - Player items, NPCs and Monsters
+## STATUS: UP TO DATE - Player items, NPCs and Monsters
 
 PLEASE NOTE: This program was not written by me, not do i claim to be the origional creator. 
 
