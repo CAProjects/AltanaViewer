@@ -1,6 +1,6 @@
 # AltanaViewer
 
-## STATUS UP TO DATE
+## STATUS UP TO DATE - Player items, NPCs and Monsters
 
 PLEASE NOTE: This program was not written by me, not do i claim to be the origional creator. 
 
@@ -28,7 +28,11 @@ Added Items introduced in the following:-
 * [August 2022 Version Update](https://www.bg-wiki.com/ffxi/August_2022_Version_Update_Changes)
 * [September 2022 Version Update](https://www.bg-wiki.com/ffxi/September_2022_Version_Update_Changes)
 
+* Monsters included in version updates June 2020 to September 2022 have been added
+* NPCs included in version updates June 2020 to September 2022 have been added
+
 TODO 
+Add Animationse - if I can figure it out
 Wait for next Version Update and update the lists again
 
 This is currently a work in progress so please be patient while i bring this up to date with the current games
