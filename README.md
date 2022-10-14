@@ -27,12 +27,14 @@ Added Items introduced in the following:-
 * [June 2022 Version Update](https://www.bg-wiki.com/ffxi/June_2022_Version_Update_Changes)
 * [August 2022 Version Update](https://www.bg-wiki.com/ffxi/August_2022_Version_Update_Changes)
 * [September 2022 Version Update](https://www.bg-wiki.com/ffxi/September_2022_Version_Update_Changes)
+* [October 2022 Version Update](https://www.bg-wiki.com/ffxi/October_2022_Version_Update_Changes)
 
-* Monsters included in version updates June 2020 to September 2022 have been added
-* NPCs included in version updates June 2020 to September 2022 have been added
+October 2022 additions
+* 6 Monsters - 3x Kumhau 1x Velk, 1x Orobon, 1x Wivre
+
+
 
 TODO 
 Add Animationse - if I can figure it out
-Wait for next Version Update and update the lists again
 
-This is currently a work in progress so please be patient while i bring this up to date with the current games
+This is currently a work in progress so please be patient while i bring this fully up to date with the current games

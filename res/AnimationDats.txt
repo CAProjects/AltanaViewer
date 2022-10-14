@@ -59,3 +59,11 @@
 372/36,RomData372-36 - Anniversary Firework
 373/57,RomData373-57 - Animation
 373/58,RomData373-58 - Animation
+375/86,ItemDat86 - Animation
+375/87,ItemDat87 - Animation
+375/91,ItemDat91 - Animation
+375/92,ItemDat92 - Animation
+375/94,ItemDat94 - Animation
+375/95,ItemDat95 - Animation
+375/96,ItemDat96 - Animation
+375/97,ItemDat97 - Animation
