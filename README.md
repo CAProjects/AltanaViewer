@@ -29,6 +29,9 @@ Added Items introduced in the following:-
 * [September 2022 Version Update](https://www.bg-wiki.com/ffxi/September_2022_Version_Update_Changes)
 * [October 2022 Version Update](https://www.bg-wiki.com/ffxi/October_2022_Version_Update_Changes)
 
+* 22/10/22 | Added Odyssea Bosses (created category in NPC's for this) - Thanks to SpicyRyan, 3 require verification as i have not fought them to know thier model
+
+
 October 2022 additions
 * 6 Monsters - 3x Kumhau 1x Velk, 1x Orobon, 1x Wivre
 
